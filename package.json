@@ -1,0 +1,6 @@
+{
+  "urls": [
+    ["usamtts.py", "github:jacklinquan/micropython-samtts/usamtts.py"]
+  ],
+  "version": "0.2.0"
+}
