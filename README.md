@@ -489,6 +489,17 @@ if __name__ == "__main__":
 ```
 </details>
 
+### For Brython
+
+As a pure Python module, `usamtts` can also work with
+[Brython](https://github.com/brython-dev/brython)
+in a browser.
+Please try this
+[demo](https://jacklinquan.github.io/micropython-samtts/).
+
+Please note that up to Brython v3.13.1 there is a bug on `bytes` literal.
+The `usamtts` module used for the demo is modified to work around this bug in Brython.
+
 ---
 
 ## Useful information
