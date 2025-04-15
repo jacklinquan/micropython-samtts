@@ -5,6 +5,8 @@ A Python port of Software Automatic Mouth Test-To-Speech program.
 - Ported by: Quan Lin
 - License: None
 
+[Try `usamtts` in browser.](https://jacklinquan.github.io/micropython-samtts/)
+
 ***WARNING***:
 This project is not under any open source software license.
 Use it at your own risk.

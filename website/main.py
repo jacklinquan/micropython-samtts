@@ -136,7 +136,7 @@ def main():
     # Header
     document <= html.NAV(
         html.DIV(
-            html.DIV("MicroPython SAMTTS", Class="brand-logo center"),
+            html.DIV("USAMTTS", Class="brand-logo center"),
             Class="nav-wrapper container center",
         ),
         Class="teal",
