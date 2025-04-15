@@ -611,8 +611,8 @@ As long this is the case I cannot put my code under any open source software lic
 However the software might be used under the
 ["Fair Use" act](https://en.wikipedia.org/wiki/FAIR_USE_Act)
 in the USA.
-In fact,
-[The MicroPython port for BBC micro:bit](https://github.com/bbcmicrobit/micropython)
+In fact, the
+[MicroPython port for BBC micro:bit](https://github.com/bbcmicrobit/micropython)
 has been using
 [SAM in C by Stefan Macke](https://github.com/s-macke/SAM)
 as the core of its `speech` module for many years.
